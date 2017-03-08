@@ -24,7 +24,7 @@
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="30dp"
-                android:src="@drawable/home" />
+                android:src="@drawable/home_selector" />
 
             <TextView
                 android:layout_width="match_parent"
@@ -43,7 +43,7 @@
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="30dp"
-                android:src="@drawable/order" />
+                android:src="@drawable/order_selector" />
 
             <TextView
                 android:layout_width="match_parent"
@@ -62,7 +62,7 @@
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="30dp"
-                android:src="@drawable/me" />
+                android:src="@drawable/me_selector" />
 
             <TextView
                 android:layout_width="match_parent"
@@ -81,7 +81,7 @@
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="30dp"
-                android:src="@drawable/more" />
+                android:src="@drawable/more_selector" />
 
             <TextView
                 android:layout_width="match_parent"
